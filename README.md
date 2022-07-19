@@ -1,2 +1,2 @@
 # PROYECTO-VERGARA-CALVARIO
-Creacion de tienda de organizacion
+Re-creacion de tienda de organizacion
